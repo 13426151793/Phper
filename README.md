@@ -1,3 +1,3 @@
 # Phper
 I am a software development enthusiast
-我的世界我做主 try my best
+I am in charge of my world try my best
